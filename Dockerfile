@@ -1,1 +1,1 @@
-FROM ghost:1.5.0
+FRO M ghost:1.5.0
